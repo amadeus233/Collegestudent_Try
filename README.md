@@ -3,6 +3,8 @@
 
 
 进入后的初始界面
+
+
 ![image](https://github.com/amadeus233/Collegestudent_Try/blob/master/start.gif)
 
 
