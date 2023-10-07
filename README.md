@@ -1,0 +1,3 @@
+# Collegestudent_Try
+这个项目是去年大一参加计算机设计大赛数媒游戏组制作的Unity2D游戏
+
